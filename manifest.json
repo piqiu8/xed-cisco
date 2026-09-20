@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Xed-Editor/Xed-Schemas/main/extension.json",
+  "id": "com.rk.demo",
+  "mainClass": "com.rk.demo.Main",
+  "name": "Extension template",
+  "type": "extension",
+  "version": "1.0.0",
+  "description": "A demo extension template project",
+  "author": {
+    "displayName": "Unknown"
+  },
+  "minAppVersion": 95,
+  "repository": "https://github.com/Xed-Editor/Extension-Template"
+}
