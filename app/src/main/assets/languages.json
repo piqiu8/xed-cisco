@@ -1,0 +1,9 @@
+{
+  "languages": [
+    {
+      "grammar": "cisco.tmLanguage",
+      "name": "Cisco IOS",
+      "scopeName": "text.cisco"
+    }
+  ]
+}
