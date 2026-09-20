@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/Xed-Editor/Xed-Schemas/main/extension.json",
-  "id": "com.rk.demo",
+  "id": "com.piqiu.cisco",
   "mainClass": "com.rk.demo.Main",
-  "name": "Extension template",
+  "name": "Cisco IOS Syntax",
   "type": "extension",
   "version": "1.0.0",
-  "description": "A demo extension template project",
+  "description": "Cisco IOS syntax highlighting for Xed",
   "author": {
-    "displayName": "Unknown"
+    "displayName": "piqiuqw"
   },
   "minAppVersion": 95,
-  "repository": "https://github.com/Xed-Editor/Extension-Template"
+  "repository": "https://github.com/piqiu8/xed-cisco"
 }
